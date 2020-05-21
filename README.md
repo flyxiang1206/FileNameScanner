@@ -2,14 +2,14 @@
 比較一個目錄底下，某兩個副檔名是否有可以配對的檔案(同檔名)，並刪除沒有配對的檔案(可選)
 
 ## 前言
-因為工作需求，需要用自己的data去訓練YOLO，但是往往實習生Labelimg切完檔案，圖片跟Xml常常對不上，一個目錄下隨便就幾千個檔案，人工處理實在是會瘋掉，所以這個專案就誕生了
+因為工作需求，需要用自己的data去訓練YOLO，但是往往實習生Labelimg切完的檔案，圖片跟Xml常常對不上，一個目錄下隨便就幾千個檔案，人工處理實在是會瘋掉，所以這個專案就誕生了
 
 ## 專案環境
 dotnet core 3.1 Console
 
 ## 使用方法
 
-你可以Clone下在自己Build，或是直接載輸出檔 [x86](https://github.com/flyxiang1206/FileNameScanner/raw/master/ReleaseFile/FileNameScanner_x86.exe) [x64](https://github.com/flyxiang1206/FileNameScanner/raw/master/ReleaseFile/FileNameScanner_x64.exe)
+你可以Clone下來再自己Build，或是直接載輸出檔 [x86](https://github.com/flyxiang1206/FileNameScanner/raw/master/ReleaseFile/FileNameScanner_x86.exe) [x64](https://github.com/flyxiang1206/FileNameScanner/raw/master/ReleaseFile/FileNameScanner_x64.exe)
 
 #### 使用指令
 ```
